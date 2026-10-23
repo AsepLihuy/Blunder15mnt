@@ -1,1 +1,6 @@
-src/main/resources/plugin.yml
+name: DeathBan
+version: 1.0.0
+main: me.deathban.DeathBan
+api-version: '1.21'
+author: AsepLihuy
+description: Ban player for 15 minutes when they die.
